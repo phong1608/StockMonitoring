@@ -3,7 +3,7 @@
     public class AlertRule
     {
         public int Id { get; set; }
-        public int UserId { get; set; }
+        public Guid UserId { get; set; }
         public string Symbol { get; set; }
 
         public AlertType Type { get; set; }

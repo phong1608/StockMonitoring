@@ -1,6 +1,0 @@
-@StockMonitoring.Infrastructure_HostAddress = http://localhost:5194
-
-GET {{StockMonitoring.Infrastructure_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

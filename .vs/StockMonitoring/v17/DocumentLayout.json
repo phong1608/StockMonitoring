@@ -3,32 +3,220 @@
   "WorkspaceRootPath": "D:\\Code C#\\StockMonitoring\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F807CA00-CB1B-4B6A-90E2-A1B41487C27D}|StockMonitoring.Api\\StockMonitoring.Api.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.api\\controller\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807CA00-CB1B-4B6A-90E2-A1B41487C27D}|StockMonitoring.Api\\StockMonitoring.Api.csproj|solutionrelative:stockmonitoring.api\\controller\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\alertrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\alertrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\stockmonitoring.infrastructure.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\stockmonitoring.infrastructure.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\services\\queries\\getstock\\getstockquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\services\\queries\\getstock\\getstockquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\services\\queries\\getstock\\getstockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\services\\queries\\getstock\\getstockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\services\\commands\\createstock\\createstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\services\\commands\\createstock\\createstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\repository\\alertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\repository\\alertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\provider\\finnhubpricefeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\provider\\finnhubpricefeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\ipricefeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\ipricefeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807CA00-CB1B-4B6A-90E2-A1B41487C27D}|StockMonitoring.Api\\StockMonitoring.Api.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807CA00-CB1B-4B6A-90E2-A1B41487C27D}|StockMonitoring.Api\\StockMonitoring.Api.csproj|solutionrelative:stockmonitoring.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\provider\\realtimeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\provider\\realtimeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\provider\\priceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\provider\\priceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\hubs\\stockfeedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\hubs\\stockfeedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\hubs\\activesymbolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\hubs\\activesymbolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\hubs\\stockhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\hubs\\stockhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\stockpricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\stockpricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\services\\queries\\getstockbysymbol\\getstockbysymbolhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\services\\queries\\getstockbysymbol\\getstockbysymbolhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\repository\\stockpricehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\repository\\stockpricehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\istockpricehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\istockpricehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\repository\\jwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\repository\\jwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\dtos\\finnhubquoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\dtos\\finnhubquoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\dtos\\stockpriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\dtos\\stockpriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\services\\queries\\getstockbysymbol\\getstockbysymbolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\services\\queries\\getstockbysymbol\\getstockbysymbolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\stockmonitoring.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\stockmonitoring.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\iexternalstockpriceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\iexternalstockpriceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\repository\\marketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\repository\\marketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\services\\commands\\createstock\\createstockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\services\\commands\\createstock\\createstockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\ialertrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\ialertrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.domain\\models\\alertrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DBACE4-0B83-4378-9A2A-90CD94613EC9}|StockMonitoring.Domain\\StockMonitoring.Domain.csproj|solutionrelative:stockmonitoring.domain\\models\\alertrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\imarketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\imarketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\irealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\irealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\interface\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\interface\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\cqrs\\iqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\cqrs\\iqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.application\\common\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706C839-F814-4E35-A83B-4189384C8374}|StockMonitoring.Application\\StockMonitoring.Application.csproj|solutionrelative:stockmonitoring.application\\common\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|d:\\code c#\\stockmonitoring\\stockmonitoring.infrastructure\\stockmonitoring.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{855D0406-F063-4884-924D-50558A6C0700}|StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj|solutionrelative:stockmonitoring.infrastructure\\stockmonitoring.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +226,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 542,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockMonitoring.Infrastructure.http",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.http",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.http",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.http",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-09T08:22:46.507Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -47,6 +248,498 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Api\\Controller\\StockController.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Api\\Controller\\StockController.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Api\\Controller\\StockController.cs",
+              "RelativeToolTip": "StockMonitoring.Api\\Controller\\StockController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:26:29.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:32:37.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:07:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStockCommand.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockCommand.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockCommand.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockCommand.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:05:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStockHandler.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockHandler.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockHandler.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockHandler.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:08:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetStockQuery.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockQuery.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockQuery.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockQuery.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Services\\Queries\\GetStock\\GetStockQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:05:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:13:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinnhubPriceFeedService.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Provider\\FinnhubPriceFeedService.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Provider\\FinnhubPriceFeedService.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Provider\\FinnhubPriceFeedService.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Provider\\FinnhubPriceFeedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:07:52.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:24:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlertRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\AlertRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Repository\\AlertRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\AlertRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Repository\\AlertRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:13:11.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPriceFeedService.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IPriceFeedService.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IPriceFeedService.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IPriceFeedService.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IPriceFeedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:08:36.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Api\\Program.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Api\\Program.cs",
+              "RelativeToolTip": "StockMonitoring.Api\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:17:01.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActiveSymbolManager.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Hubs\\ActiveSymbolManager.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Hubs\\ActiveSymbolManager.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Hubs\\ActiveSymbolManager.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Hubs\\ActiveSymbolManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T03:42:14.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockFeedHub.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Hubs\\StockFeedHub.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Hubs\\StockFeedHub.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Hubs\\StockFeedHub.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Hubs\\StockFeedHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:05:49.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PriceWorker.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Provider\\PriceWorker.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Provider\\PriceWorker.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Provider\\PriceWorker.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Provider\\PriceWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:53:00.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RealtimeWorker.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Provider\\RealtimeWorker.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Provider\\RealtimeWorker.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Provider\\RealtimeWorker.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Provider\\RealtimeWorker.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:49:15.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Enum\\UserType.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Enum\\UserType.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Enum\\UserType.cs",
+              "RelativeToolTip": "StockMonitoring.Domain\\Enum\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:10:38.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockHub.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Hubs\\StockHub.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Hubs\\StockHub.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Hubs\\StockHub.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Hubs\\StockHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:50:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StockPriceHistory.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
+              "RelativeToolTip": "StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:18:27.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Repository\\StockRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAEwDwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:53:11.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Data\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Data\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Data\\IApplicationDbContext.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Data\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:40:46.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\Stock.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Stock.cs",
+              "RelativeToolTip": "StockMonitoring.Domain\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:17:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IStockRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IStockRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:12:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetStockBySymbolHandler.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolHandler.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolHandler.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolHandler.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:08:33.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StockPriceHistoryRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\StockPriceHistoryRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Repository\\StockPriceHistoryRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\StockPriceHistoryRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Repository\\StockPriceHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:02:49.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStockPriceHistoryRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IStockPriceHistoryRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IStockPriceHistoryRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IStockPriceHistoryRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IStockPriceHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:22:40.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\User.cs",
+              "RelativeToolTip": "StockMonitoring.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:18:56.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WatchlistItem.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\WatchlistItem.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\WatchlistItem.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\WatchlistItem.cs",
+              "RelativeToolTip": "StockMonitoring.Domain\\Models\\WatchlistItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:19:20.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\JwtRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Repository\\JwtRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\JwtRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Repository\\JwtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:05:18.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FinnhubQuoteResponse.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\FinnhubQuoteResponse.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\DTOs\\FinnhubQuoteResponse.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\FinnhubQuoteResponse.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\DTOs\\FinnhubQuoteResponse.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:14:56.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IWatchlistRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IWatchlistRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IWatchlistRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IWatchlistRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IWatchlistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:24:41.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetStockBySymbolQuery.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolQuery.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolQuery.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolQuery.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Services\\Queries\\GetStockBySymbol\\GetStockBySymbolQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:09:08.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:12:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StockPriceResponse.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\StockPriceResponse.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\DTOs\\StockPriceResponse.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\StockPriceResponse.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\DTOs\\StockPriceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:34:12.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:07:45.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StockMonitoring.Application.csproj",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\StockMonitoring.Application.csproj",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\StockMonitoring.Application.csproj",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\StockMonitoring.Application.csproj",
+              "RelativeToolTip": "StockMonitoring.Application\\StockMonitoring.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T07:08:31.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IExternalStockPriceProvider.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IExternalStockPriceProvider.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IExternalStockPriceProvider.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IExternalStockPriceProvider.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IExternalStockPriceProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:30:57.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MarketRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\MarketRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Repository\\MarketRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Repository\\MarketRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Repository\\MarketRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:56:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Market.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Market.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\Market.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Market.cs",
+              "RelativeToolTip": "StockMonitoring.Domain\\Models\\Market.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:17:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateStockHandler.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockHandler.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockHandler.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockHandler.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Services\\Commands\\CreateStock\\CreateStockHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:07:57.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "Notification.cs",
               "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\Notification.cs",
@@ -54,86 +747,151 @@
               "RelativeToolTip": "StockMonitoring.Domain\\Models\\Notification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:20:30.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T13:20:30.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 42,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:34:28.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAlertRuleRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IAlertRuleRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IAlertRuleRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IAlertRuleRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IAlertRuleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:24:57.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "AlertRule.cs",
               "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\AlertRule.cs",
               "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\AlertRule.cs",
               "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\AlertRule.cs",
               "RelativeToolTip": "StockMonitoring.Domain\\Models\\AlertRule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:19:56.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T13:19:56.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WatchlistItem.cs",
-              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\WatchlistItem.cs",
-              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\WatchlistItem.cs",
-              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\WatchlistItem.cs",
-              "RelativeToolTip": "StockMonitoring.Domain\\Models\\WatchlistItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\Program.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\Program.cs",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:19:20.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T13:37:09.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\User.cs",
-              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\User.cs",
-              "RelativeToolTip": "StockMonitoring.Domain\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 46,
+              "Title": "IMarketRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IMarketRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IMarketRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IMarketRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IMarketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:18:56.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:17:01.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StockPriceHistory.cs",
-              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
-              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
-              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
-              "RelativeToolTip": "StockMonitoring.Domain\\Models\\StockPriceHistory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "DocumentIndex": 47,
+              "Title": "IRealtimeNotifier.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IRealtimeNotifier.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\IRealtimeNotifier.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\IRealtimeNotifier.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\IRealtimeNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:18:27.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:31:10.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Market.cs",
-              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Market.cs",
-              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\Market.cs",
-              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Market.cs",
-              "RelativeToolTip": "StockMonitoring.Domain\\Models\\Market.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 48,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\Interface\\INotificationRepository.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\Interface\\INotificationRepository.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\Interface\\INotificationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:17:54.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:25:21.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "StockMonitoring.Domain\\Models\\Stock.cs",
-              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Domain\\Models\\Stock.cs",
-              "RelativeToolTip": "StockMonitoring.Domain\\Models\\Stock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 49,
+              "Title": "IQueryHanlder.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\IQueryHanlder.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\CQRS\\IQueryHanlder.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\IQueryHanlder.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\CQRS\\IQueryHanlder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:17:30.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:04:42.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\IQuery.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\CQRS\\IQuery.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\IQuery.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\CQRS\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:03:49.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\CQRS\\ICommandHandler.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\ICommandHandler.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\CQRS\\ICommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:02:26.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\ICommand.cs",
+              "RelativeDocumentMoniker": "StockMonitoring.Application\\Common\\CQRS\\ICommand.cs",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Application\\Common\\CQRS\\ICommand.cs",
+              "RelativeToolTip": "StockMonitoring.Application\\Common\\CQRS\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:01:27.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StockMonitoring.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj",
+              "ToolTip": "D:\\Code C#\\StockMonitoring\\StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj",
+              "RelativeToolTip": "StockMonitoring.Infrastructure\\StockMonitoring.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T13:36:37.396Z"
             }
           ]
         },
@@ -159,6 +917,10 @@
           "DockedWidth": 1331,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
