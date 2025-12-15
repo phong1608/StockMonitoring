@@ -23,7 +23,7 @@ namespace StockMonitoring.Infrastructure.Repository
         {
 
             var stock = await _context.Stocks
-                .Include(s=>s.Market)
+                .Include(s=>s.StockPriceHistory)
                 .FirstOrDefaultAsync(s => s.Symbol == symbol);
             if (!_symbolManager.GetAllSymbols().Contains(symbol))
             {

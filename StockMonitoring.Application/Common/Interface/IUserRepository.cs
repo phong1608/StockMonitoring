@@ -1,11 +1,11 @@
-﻿using StockMonitoring.Domain.Models;
+﻿using StockMonitoring.Application.DTOs;
+using StockMonitoring.Domain.Models;
 
 namespace StockMonitoring.Application.Common.Interface
 {
     public interface IUserRepository
     {
-        Task<User> GetByIdAsync(int id);
-        Task<User> GetByUsernameAsync(string username);
-        Task AddAsync(User user);
+        Task<User> RegisterAsync(UserRegisterDto dto);
+        Task<string> LoginAsync(UserLoginDto dto);
     }
 }

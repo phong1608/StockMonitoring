@@ -7,7 +7,7 @@ using StockMonitoring.Application.Common.Interface;
 
 namespace StockMonitoring.Infrastructure.Repository
 {
-    public class AuthService
+    public class AuthService:IUserRepository
     {
         private readonly ApplicationDbContext _context;
         private readonly IConfiguration _configuration;

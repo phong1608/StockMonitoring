@@ -29,11 +29,7 @@ namespace StockMonitoring.Infrastructure.Data
             modelBuilder.Entity<Stock>()
                 .HasKey(s => s.Symbol);
 
-            modelBuilder.Entity<Stock>()
-                .HasOne(s => s.Market)
-                .WithMany(m => m.Stocks)
-                .HasForeignKey(s => s.MarketId)
-                .OnDelete(DeleteBehavior.Restrict);
+         
 
 
             // =============================
@@ -91,10 +87,6 @@ namespace StockMonitoring.Infrastructure.Data
                 .HasForeignKey(a => a.Symbol)
                 .OnDelete(DeleteBehavior.Restrict);
 
-
-            // =============================
-            // Notification
-            // =============================
             modelBuilder.Entity<Notification>()
                 .HasOne(n => n.User)
                 .WithMany()
